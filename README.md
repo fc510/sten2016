@@ -1,1 +1,4 @@
-# sten2016
+# Repository sten2016
+---------------------
+
+For sharing and collaboration.
